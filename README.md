@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1297-maximum-number-of-balloons](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/1297-maximum-number-of-balloons) |
+| [3617-find-the-original-typed-string-i](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/3617-find-the-original-typed-string-i) |
 ## Counting
 |  |
 | ------- |
