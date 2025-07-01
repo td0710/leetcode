@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/0165-compare-version-numbers) |
+| [0394-decode-string](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1297-maximum-number-of-balloons](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [3617-find-the-original-typed-string-i](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/3617-find-the-original-typed-string-i) |
@@ -41,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/0165-compare-version-numbers) |
+## Stack
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/0394-decode-string) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
