@@ -1,47 +1,42 @@
 function decodeString(s: string): string {
-    const numStack: number[] = [];
-    const stack: string[] = [];
+    const numStack = [];
+    const stack = [];
 
-    for (let i = 0; i < s.length; i++) {
-        let cnt = 0;
+    let res = "" ;
+    let tmp = "" ;
 
-        
-        if (s[i].charCodeAt(0) >= 48 && s[i].charCodeAt(0) <= 57) {
-            while (s[i].charCodeAt(0) >= 48 && s[i].charCodeAt(0) <= 57) {
-                cnt = cnt * 10 + (s[i].charCodeAt(0) - 48);
+    for (let i = 0; i < s.length ;i++) {
+        let cnt = 0 ; 
+
+        if(s[i].charCodeAt(0) >= 48 && s[i].charCodeAt(0) <= 57) {
+            while(s[i].charCodeAt(0) >= 48 && s[i].charCodeAt(0) <= 57) {
+                cnt=cnt*10+s[i].charCodeAt(0) - 48;
                 i++;
             }
-            i--;
-            numStack.push(cnt);
+            i--
+            numStack.push(cnt) ; 
         }
 
-        
-        else if (s[i] === ']') {
-            let tmp = "";
-            while (stack.length && stack[stack.length - 1] !== '[') {
-                tmp = stack.pop()! + tmp;
+        else if (s[i] == ']') {
+            tmp="" ; 
+            cnt=numStack[numStack.length - 1] ; 
+            numStack.pop() ; 
+            while(stack[stack.length - 1] != '[') {
+                tmp = stack[stack.length - 1] + tmp ; 
+                stack.pop() ; 
             }
-
-            stack.pop(); 
-            const repeat = numStack.pop()!;
-
-            let expanded = "";
-            for (let j = 0; j < repeat; j++) {
-                expanded += tmp;
+            stack.pop() ; 
+            for(let j=0;j<cnt;j++){
+                res = res + tmp;
             }
-
-            
-            for (const ch of expanded) {
-                stack.push(ch);
+             for(let j=0;j<res.length;j++){
+                stack.push(res[j]);
             }
+            res="";
         }
-
-        
-        else {
-            stack.push(s[i]);
+        else{
+           stack.push(s[i]);
         }
     }
-
-   
     return stack.join('');
 };
