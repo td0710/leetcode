@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [1185-find-in-mountain-array](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/1185-find-in-mountain-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 ## Sliding Window
 |  |
@@ -56,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/0127-word-ladder) |
+## Binary Search
+|  |
+| ------- |
+| [1185-find-in-mountain-array](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/1185-find-in-mountain-array) |
+## Interactive
+|  |
+| ------- |
+| [1185-find-in-mountain-array](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/1185-find-in-mountain-array) |
 <!---LeetCode Topics End-->
