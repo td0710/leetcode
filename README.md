@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/0127-word-ladder) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/0127-word-ladder) |
 | [0165-compare-version-numbers](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/0165-compare-version-numbers) |
 | [0394-decode-string](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/0394-decode-string) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
