@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [3617-find-the-original-typed-string-i](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3636-check-balanced-string](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/3636-check-balanced-string) |
+| [3893-generate-tag-for-video-caption](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/3893-generate-tag-for-video-caption) |
 ## Counting
 |  |
 | ------- |
@@ -101,4 +102,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3893-generate-tag-for-video-caption](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/3893-generate-tag-for-video-caption) |
 <!---LeetCode Topics End-->
