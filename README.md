@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1297-maximum-number-of-balloons](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/1297-maximum-number-of-balloons) |
+| [3732-calculate-score-after-performing-instructions](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/3815-sum-of-largest-prime-substrings) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [3617-find-the-original-typed-string-i](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3636-check-balanced-string](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/3636-check-balanced-string) |
+| [3732-calculate-score-after-performing-instructions](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/3815-sum-of-largest-prime-substrings) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1185-find-in-mountain-array](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/1185-find-in-mountain-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [3732-calculate-score-after-performing-instructions](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/3732-calculate-score-after-performing-instructions) |
 ## Sliding Window
 |  |
 | ------- |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3732-calculate-score-after-performing-instructions](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3893-generate-tag-for-video-caption](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/3893-generate-tag-for-video-caption) |
 ## Greedy
 |  |
