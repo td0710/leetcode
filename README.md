@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1297-maximum-number-of-balloons](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [3617-find-the-original-typed-string-i](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/3617-find-the-original-typed-string-i) |
+| [3636-check-balanced-string](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/3636-check-balanced-string) |
 ## Counting
 |  |
 | ------- |
