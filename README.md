@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0394-decode-string](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/0394-decode-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -108,11 +109,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/3815-sum-of-largest-prime-substrings) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Simulation
 |  |
 | ------- |
