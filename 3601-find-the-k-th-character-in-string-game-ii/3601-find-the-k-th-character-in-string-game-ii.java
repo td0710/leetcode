@@ -21,6 +21,6 @@ class Solution {
             }
         }
 
-        return (char) ((('a' - 'a' + cnt) % 26) + 'a') ; 
+        return (char) (((cnt) % 26) + 'a') ; 
     }
 }
