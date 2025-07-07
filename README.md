@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1185-find-in-mountain-array](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/1185-find-in-mountain-array) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/3732-calculate-score-after-performing-instructions) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/3815-sum-of-largest-prime-substrings) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Two Pointers
@@ -133,9 +135,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Number Theory
 |  |
 | ------- |
 | [3815-sum-of-largest-prime-substrings](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/3815-sum-of-largest-prime-substrings) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 <!---LeetCode Topics End-->
