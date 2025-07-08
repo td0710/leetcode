@@ -17,7 +17,7 @@ function findInMountainArray(target: number, mountainArr: MountainArray) {
         let num = mountainArr.get(mid);
         let num1 = mountainArr.get(mid+1);
 
-        if(num>num1) end = mid ; 
+        if(num > num1) end = mid ; 
         else start = mid + 1; 
     }
 
