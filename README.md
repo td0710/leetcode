@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1185-find-in-mountain-array](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/1185-find-in-mountain-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0540-single-element-in-a-sorted-array](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1185-find-in-mountain-array](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/1185-find-in-mountain-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 ## Interactive
