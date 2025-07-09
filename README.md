@@ -54,11 +54,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/3732-calculate-score-after-performing-instructions) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Sliding Window
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Sorting
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Number Theory
 |  |
