@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/td0710/https-github.com-td0710-leetcode/tree/master/0165-compare-version-numbers) |
 ## Stack
 |  |
